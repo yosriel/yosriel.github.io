@@ -25,7 +25,7 @@ function App() {
             {/* Right-side action buttons */}
             <div className="mt-6 md:mt-0 md:flex md:flex-col md:items-end md:gap-3">
               <a
-                href="https://github.com/DiegoFalla-dev"
+                href="https://github.com/yosriel"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center w-full px-4 py-2 transition-colors duration-150 border rounded-md sm:w-35 border-brand-mid/20 text-slate-100 hover-bg-brand-mid-20-important hover-brand-primary-important"
