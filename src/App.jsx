@@ -43,7 +43,9 @@ function App() {
               </a>
 
               <a
-                href="#experience"
+                href="/CV.pdf"
+                taget="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center w-full px-4 py-2 transition-colors duration-150 border rounded-md sm:w-35 border-brand-mid/20 text-slate-100 hover-bg-brand-mid-20-important hover-brand-accent-important"
               >
                 <FiFileText /> <span className="hidden ml-2 sm:inline">CV</span>
