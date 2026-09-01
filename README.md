@@ -113,8 +113,4 @@ Aruba · MikroTik · Ubiquiti · Cisco
 
 </div>
 
----
 
-<div align="center">
-<sub>Perfil en construcción constante — como todo buen proyecto 🚀</sub>
-</div>
